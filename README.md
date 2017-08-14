@@ -16,8 +16,8 @@ DHT22: https://github.com/adafruit/Adafruit_Python_DHT
 BME280: https://github.com/adafruit/Adafruit_Python_BME280  
 
 ## Connecting the Sensors to the PI
-DHT22: The Data Pin (normally pin 2) should be connected to PI GPIO 17 (pin 11).
-BME280: The Data Pins SDA pin should be connected to PI GPIO 2 (pin 3) and SCL to GPIO 3 (pin 5).
+DHT22: The Data Pin (normally pin 2) should be connected to PI GPIO 17 (pin 11).  
+BME280: The Data Pins SDA pin should be connected to PI GPIO 2 (pin 3) and SCL to GPIO 3 (pin 5).  
 
 ## Installation Instruction
 1. Install Raspbian, enable SSH and I2C and connect it to a network.  
